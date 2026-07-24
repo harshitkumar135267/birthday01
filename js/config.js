@@ -44,10 +44,10 @@ window.CONFIG = {
 
   // Song. YouTube video ID OR a local mp3 path (mp3 wins if set).
   song: {
-    title: "Perfect",
-    artist: "Ed Sheeran",
+    title: "Maskara",
+    artist: "@ARRahman‬",
     youtubeId: "6k8cpUkKK4c",
-    mp3: "assets/Music/song1.mp3",
+    mp3: "assets/Music/song2.mp3",
     lyric: "You can count on me like 1, 2, 3… 💫",
   },
 
